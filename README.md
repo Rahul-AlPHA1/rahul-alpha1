@@ -262,10 +262,6 @@ Role-specific mock interviews, local RAG knowledge base, resume-to-JD matching f
 
 <img src="https://streak-stats.demolab.com?user=Rahul-AlPHA1&theme=tokyonight&hide_border=true&background=050d1a&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=e2e8f0&dates=94a3c4&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-AlPHA1&theme=tokyo-night&bg_color=050d1a&color=00d4ff&line=7c3aed&point=e2e8f0&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul-AlPHA1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-
 <br/><br/>
 
 <picture>
