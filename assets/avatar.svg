@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <title>Rahool Gir — bitmoji avatar</title>
+  <style>
+    .head  { transform-origin: 200px 262px; animation: bob 6s ease-in-out infinite; }
+    .eye   { transform-box: fill-box; transform-origin: center; animation: blink 5s infinite; }
+    .ring  { transform-origin: 200px 200px; animation: spin 14s linear infinite; }
+    .f1    { animation: float 4s ease-in-out infinite; }
+    .f2    { animation: float 4.6s ease-in-out .8s infinite; }
+    .f3    { animation: float 5s ease-in-out 1.6s infinite; }
+    .f4    { animation: float 4.3s ease-in-out 2.2s infinite; }
+    .bubble{ transform-origin: 300px 74px; animation: pop 6s ease-in-out infinite; }
+    .glow  { animation: pulse 3s ease-in-out infinite; }
+    @keyframes bob   { 0%,100% { transform: rotate(-2.5deg); } 50% { transform: rotate(2.5deg) translateY(-3px); } }
+    @keyframes blink { 0%,90%,96%,100% { transform: scaleY(1); } 93% { transform: scaleY(.08); } }
+    @keyframes spin  { to { transform: rotate(360deg); } }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @keyframes pop   { 0%,8% { transform: scale(0); opacity: 0; } 14%,80% { transform: scale(1); opacity: 1; } 88%,100% { transform: scale(0); opacity: 0; } }
+    @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: .7; } }
+  </style>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="65%">
+      <stop offset="0" stop-color="#1a2b57"/>
+      <stop offset="1" stop-color="#050d1a"/>
+    </radialGradient>
+    <linearGradient id="ringG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d4ff"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="skin" cx="42%" cy="36%" r="72%">
+      <stop offset="0" stop-color="#E4AC84"/>
+      <stop offset=".6" stop-color="#C68B63"/>
+      <stop offset="1" stop-color="#9C6240"/>
+    </radialGradient>
+    <linearGradient id="neckG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8E5737"/>
+      <stop offset="1" stop-color="#B57751"/>
+    </linearGradient>
+    <linearGradient id="suit" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b303b"/>
+      <stop offset="1" stop-color="#090b0f"/>
+    </linearGradient>
+    <linearGradient id="hairG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a3a3a"/>
+      <stop offset=".45" stop-color="#1a1a1a"/>
+      <stop offset="1" stop-color="#090909"/>
+    </linearGradient>
+    <clipPath id="circ"><circle cx="200" cy="200" r="184"/></clipPath>
+    <clipPath id="eyeL"><ellipse cx="170" cy="160" rx="13" ry="9.5"/></clipPath>
+    <clipPath id="eyeR"><ellipse cx="230" cy="160" rx="13" ry="9.5"/></clipPath>
+  </defs>
+
+  <!-- backdrop -->
+  <circle cx="200" cy="200" r="184" fill="url(#bg)"/>
+  <circle class="glow" cx="200" cy="170" r="120" fill="#00d4ff" opacity=".35" style="filter:blur(0)" fill-opacity=".08"/>
+  <g class="ring">
+    <circle cx="200" cy="200" r="192" fill="none" stroke="url(#ringG)" stroke-width="5" stroke-linecap="round" stroke-dasharray="180 28 60 28"/>
+  </g>
+
+  <g clip-path="url(#circ)">
+    <!-- body / suit -->
+    <path d="M28 404 C36 342 92 306 150 296 L172 290 L200 318 L228 290 L250 296 C308 306 364 342 372 404 Z" fill="url(#suit)"/>
+    <path d="M166 292 L234 292 L216 404 L184 404 Z" fill="#121419"/>
+    <circle cx="200" cy="346" r="2.6" fill="#353a46"/>
+    <circle cx="200" cy="378" r="2.6" fill="#353a46"/>
+    <path d="M152 296 L176 294 L196 372 L180 404 L160 404 L176 360 L148 320 Z" fill="#1c2028" stroke="#3a404d" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M248 296 L224 294 L204 372 L220 404 L240 404 L224 360 L252 320 Z" fill="#1c2028" stroke="#3a404d" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M70 336 C96 314 128 302 150 298" fill="none" stroke="#454b59" stroke-width="2" stroke-linecap="round" opacity=".6"/>
+    <path d="M330 336 C304 314 272 302 250 298" fill="none" stroke="#454b59" stroke-width="2" stroke-linecap="round" opacity=".6"/>
+
+    <!-- neck -->
+    <path d="M174 234 L226 234 L230 296 C216 312 184 312 170 296 Z" fill="url(#neckG)"/>
+    <path d="M170 290 L200 318 L184 328 Z" fill="#1d2028" stroke="#3a404d" stroke-width="1.2"/>
+    <path d="M230 290 L200 318 L216 328 Z" fill="#1d2028" stroke="#3a404d" stroke-width="1.2"/>
+
+    <!-- head -->
+    <g class="head">
+      <!-- ears -->
+      <ellipse cx="131" cy="178" rx="12" ry="19" fill="#B57751"/>
+      <ellipse cx="132" cy="179" rx="5" ry="10" fill="#94593A"/>
+      <ellipse cx="269" cy="178" rx="12" ry="19" fill="#B57751"/>
+      <ellipse cx="268" cy="179" rx="5" ry="10" fill="#94593A"/>
+
+      <!-- face -->
+      <path d="M132 165 C132 112 160 92 200 92 C240 92 268 112 268 165 C268 215 246 252 200 260 C154 252 132 215 132 165 Z" fill="url(#skin)"/>
+      <!-- stubble -->
+      <path d="M138 196 C148 238 174 258 200 260 C226 258 252 238 262 196 C254 228 232 248 200 250 C168 248 146 228 138 196 Z" fill="#3a2618" opacity=".2"/>
+      <ellipse cx="200" cy="203" rx="30" ry="7" fill="#3a2618" opacity=".1"/>
+      <!-- blush -->
+      <ellipse cx="152" cy="190" rx="14" ry="8" fill="#E07A5F" opacity=".2"/>
+      <ellipse cx="248" cy="190" rx="14" ry="8" fill="#E07A5F" opacity=".2"/>
+
+      <!-- side fade -->
+      <path d="M131 150 C128 166 129 176 132 184 L138 184 C136 172 136 160 139 146 Z" fill="#232323" opacity=".85"/>
+      <path d="M269 150 C272 166 271 176 268 184 L262 184 C264 172 264 160 261 146 Z" fill="#232323" opacity=".85"/>
+
+      <!-- pompadour -->
+      <path d="M131 166 C127 140 129 118 139 103 C138 84 150 64 172 52 C188 42 212 36 234 42 C254 47 268 58 270 72 C277 85 275 100 269 109 C274 126 272 146 269 166 C265 150 259 138 251 130 C245 121 236 117 226 119 C214 113 196 113 184 117 C170 119 157 125 150 133 C142 142 135 152 131 166 Z" fill="url(#hairG)"/>
+      <path d="M152 128 C154 100 168 74 196 58" fill="none" stroke="#4d4d4d" stroke-width="2.6" stroke-linecap="round" opacity=".85"/>
+      <path d="M167 119 C171 92 190 70 222 56" fill="none" stroke="#555" stroke-width="2.6" stroke-linecap="round" opacity=".85"/>
+      <path d="M185 115 C191 90 212 72 246 62" fill="none" stroke="#4a4a4a" stroke-width="2.4" stroke-linecap="round" opacity=".8"/>
+      <path d="M207 115 C215 95 236 83 262 78" fill="none" stroke="#444" stroke-width="2.2" stroke-linecap="round" opacity=".75"/>
+      <path d="M229 119 C240 105 254 97 268 97" fill="none" stroke="#3d3d3d" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+      <path d="M140 140 C140 120 146 102 158 88" fill="none" stroke="#3a3a3a" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+      <path d="M174 52 C190 41 216 36 238 44" fill="none" stroke="#777" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+      <path d="M238 44 C254 50 264 58 268 70" fill="none" stroke="#5a5a5a" stroke-width="2.4" stroke-linecap="round" opacity=".6"/>
+
+      <!-- brows -->
+      <path d="M150 141 C160 132 176 131 189 137" fill="none" stroke="#161210" stroke-width="7" stroke-linecap="round"/>
+      <path d="M211 137 C224 131 240 132 250 141" fill="none" stroke="#161210" stroke-width="7" stroke-linecap="round"/>
+
+      <!-- eyes -->
+      <g class="eye">
+        <ellipse cx="170" cy="160" rx="13" ry="9.5" fill="#fff"/>
+        <g clip-path="url(#eyeL)">
+          <circle cx="171" cy="160" r="7" fill="#3a2416"/>
+          <circle cx="171" cy="160" r="3.4" fill="#0b0b0b"/>
+          <circle cx="173.6" cy="157.4" r="2" fill="#fff"/>
+        </g>
+        <path d="M156 158 C162 149 180 149 185 157" fill="none" stroke="#2a1a10" stroke-width="2.6" stroke-linecap="round"/>
+      </g>
+      <g class="eye">
+        <ellipse cx="230" cy="160" rx="13" ry="9.5" fill="#fff"/>
+        <g clip-path="url(#eyeR)">
+          <circle cx="229" cy="160" r="7" fill="#3a2416"/>
+          <circle cx="229" cy="160" r="3.4" fill="#0b0b0b"/>
+          <circle cx="231.6" cy="157.4" r="2" fill="#fff"/>
+        </g>
+        <path d="M215 157 C220 149 238 149 244 158" fill="none" stroke="#2a1a10" stroke-width="2.6" stroke-linecap="round"/>
+      </g>
+      <path d="M159 169 Q170 174 182 169" fill="none" stroke="#9C6240" stroke-width="1.6" opacity=".7"/>
+      <path d="M218 169 Q230 174 241 169" fill="none" stroke="#9C6240" stroke-width="1.6" opacity=".7"/>
+
+      <!-- nose -->
+      <path d="M201 164 C199 177 195 186 192 191 C197 196 204 196 210 192" fill="none" stroke="#8A5536" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <!-- smile -->
+      <path d="M174 196 C164 204 162 214 166 222" fill="none" stroke="#9C6240" stroke-width="1.6" opacity=".55"/>
+      <path d="M226 196 C236 204 238 214 234 222" fill="none" stroke="#9C6240" stroke-width="1.6" opacity=".55"/>
+      <path d="M166 207 C178 237 222 237 234 207 C214 214 186 214 166 207 Z" fill="#5a1616"/>
+      <path d="M185 227 C192 222 208 222 215 227 C208 232 192 232 185 227 Z" fill="#c0504d"/>
+      <path d="M169 209 C186 215 214 215 231 209 C229 216 216 220 200 220 C184 220 171 216 169 209 Z" fill="#fff"/>
+      <path d="M166 207 C186 214 214 214 234 207" fill="none" stroke="#7a3a2a" stroke-width="1.6" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- speech bubble -->
+  <g class="bubble">
+    <rect x="262" y="40" width="124" height="38" rx="19" fill="#0d1b35" stroke="url(#ringG)" stroke-width="2"/>
+    <path d="M280 76 L272 92 L294 77 Z" fill="#0d1b35" stroke="#00d4ff" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="279" y="74" width="16" height="4" fill="#0d1b35"/>
+    <text x="324" y="64" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="700" fill="#e2e8f0">Hey there! 👋</text>
+  </g>
+
+  <!-- floating tech pills -->
+  <g font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <g class="f1"><rect x="14" y="92" width="80" height="28" rx="14" fill="#0d1b35" stroke="#ED8B00" stroke-width="2"/><text x="54" y="111" fill="#ffb347">☕ Java</text></g>
+    <g class="f2"><rect x="10" y="232" width="88" height="28" rx="14" fill="#0d1b35" stroke="#6DB33F" stroke-width="2"/><text x="54" y="251" fill="#8be06a">🍃 Spring</text></g>
+    <g class="f3"><rect x="304" y="232" width="86" height="28" rx="14" fill="#0d1b35" stroke="#61DAFB" stroke-width="2"/><text x="347" y="251" fill="#61DAFB">⚛ React</text></g>
+    <g class="f4"><rect x="312" y="122" width="76" height="28" rx="14" fill="#0d1b35" stroke="#a78bfa" stroke-width="2"/><text x="350" y="141" fill="#c4b5fd">🤖 AI</text></g>
+  </g>
+</svg>

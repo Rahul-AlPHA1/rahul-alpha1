@@ -1,383 +1,253 @@
 <div align="center">
 
-<!-- HEADER — inline SVG, never breaks -->
-<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#050d1a"/>
-      <stop offset="100%" style="stop-color:#0d1b35"/>
-    </linearGradient>
-    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00d4ff"/>
-      <stop offset="100%" style="stop-color:#7c3aed"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="160" rx="16" fill="url(#bg)"/>
-  <text x="430" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="54" font-weight="800"
-        text-anchor="middle" fill="url(#tg)">Rahool Gir</text>
-  <text x="430" y="104" font-family="'Segoe UI',Arial,sans-serif" font-size="17"
-        text-anchor="middle" fill="#e2e8f0">Senior Software Engineer</text>
-  <text x="430" y="130" font-family="'Segoe UI',Arial,sans-serif" font-size="13"
-        text-anchor="middle" fill="#7c3aed">Java · Spring Boot · Fintech &amp; Core Banking · AI Product Builder</text>
-  <circle cx="60" cy="80" r="36" fill="#00d4ff" fill-opacity="0.06"/>
-  <circle cx="800" cy="80" r="36" fill="#7c3aed" fill-opacity="0.06"/>
-</svg>
+<img src="./assets/header.svg" width="100%" alt="Rahool Gir — Senior Full-Stack Software Engineer"/>
 
-<br/>
-
-<!-- ANIMATED TYPING TAGLINE -->
 <a href="https://github.com/Rahul-AlPHA1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&height=46&lines=Senior+Software+Engineer+%40+TereSol+Pvt.+Ltd.;Building+AI-Powered+Banking+Systems+%F0%9F%8F%A6;Shipping+Production+AI+Products+on+Weekends+%F0%9F%9A%80;Fintech+by+Day+%E2%80%A2+AI+Engineer+by+Night+%F0%9F%8C%99;4+Years+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Gemini+%E2%80%A2+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=46&lines=Senior+Consultant+%40+Systems+Limited+%E2%80%94+Confiz+%F0%9F%8F%A5;Ex-Team+Lead+%40+AL-Habib+Core+Banking+%F0%9F%8F%A6;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Quarkus+%E2%80%A2+Kafka+%E2%80%A2+Kubernetes+%E2%98%95;React+19+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%9A%9B%EF%B8%8F;Fintech+by+Day+%E2%80%A2+AI+Builder+by+Night+%F0%9F%8C%99;Ship+products%2C+not+prototypes.+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Live-00d4ff?style=for-the-badge)](https://rahul-alpha1.github.io/RahoolPortfolio.com/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00d4ff?style=for-the-badge)](https://rahul-alpha1.github.io/RahoolPortfolio.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahool-goswami-4b055a126)
-[![Gmail](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahool.goswami16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-alpha1)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahool.goswami16@gmail.com)
+[![3D Me](https://img.shields.io/badge/🕹️_Play_with-3D_Me-7c3aed?style=for-the-badge)](https://rahul-alpha1.github.io/rahul-alpha1/avatar-3d/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahul-alpha1&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
+![Experience](https://img.shields.io/badge/Experience-4%2B_Years-7c3aed?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-10%2B_Shipped-ff6b35?style=flat-square)
+![Live AI Apps](https://img.shields.io/badge/Live_AI_Products-4-00c853?style=flat-square)
+![Remote](https://img.shields.io/badge/Open_to-Remote_🌍-00c853?style=flat-square)
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rahul-alpha1&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-![Experience](https://img.shields.io/badge/Experience-4%20Years-7c3aed?style=for-the-badge)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Work%20🌍-00c853?style=for-the-badge)
-&nbsp;
-![Projects Shipped](https://img.shields.io/badge/Production%20Apps-4%20Shipped%20🚀-ff6b35?style=for-the-badge)
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="46%">
+<a href="https://rahul-alpha1.github.io/rahul-alpha1/avatar-3d/">
+  <img src="./assets/avatar.svg" width="340" alt="Bitmoji of Rahool — click to play with the 3D version"/>
+</a>
+<br/>
+<sub>🕹️ <b><a href="https://rahul-alpha1.github.io/rahul-alpha1/avatar-3d/">Click me</a></b> — the 3D version follows your cursor 👀</sub>
+</td>
+<td align="center" width="54%">
+<img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 👨‍💻 About Me
 
 ```java
-public class RahoolGir extends SoftwareEngineer implements AIProductBuilder {
+public class RahoolGir extends SoftwareEngineer implements AIProductBuilder, TeamLead {
 
-    String   name       = "Rahool Gir";
-    String[] roles      = { "Senior Software Engineer",
-                            "Fintech & Core Banking Builder",
-                            "AI Product Developer",
-                            "Indie Hacker — Weekend Shipper" };
-    String   location   = "Karachi, Pakistan 🇵🇰  (Open to Remote 🌍)";
-    String   experience = "4 Years — Production Banking Systems";
-    String   company    = "TereSol Pvt. Ltd. → AL-Habib Core Banking System";
+    String   title      = "Senior Full-Stack Software Engineer";
+    String   now        = "Senior Consultant @ Systems Limited — Confiz (SL Americas)";
+    String   project    = "Chatterbox — AI-enabled US healthcare application";
+    String   before     = "4 yrs @ TereSol → AL-Habib Bank Core Banking (led a 4-engineer team)";
+    String   location   = "Karachi, Pakistan 🇵🇰  · Remote-ready with US/EU overlap 🌍";
+    String   certified  = "micro1 — Senior Software Design Engineer (system design)";
 
-    String[] currentlyBuilding = {
-        "Zynapse AI Engineering Academy — full learning OS w/ desktop app + local Ollama",
-        "AI-powered interview & coding prep platforms",
-        "Full-stack fintech ledger apps with Gemini insights",
-        "Multimodal deepfake & misinformation detectors"
+    String[] backend    = { "Java", "Spring Boot", "Quarkus", "Python", "Node.js", "Kafka" };
+    String[] frontend   = { "React 19", "Next.js", "TypeScript", "Vue.js + XState" };
+    String[] cloud      = { "Azure", "AWS", "Docker", "Kubernetes", "GitHub Actions" };
+    String[] ai         = { "Gemini", "Groq", "OpenAI", "Ollama", "RAG", "Multi-LLM routing" };
+
+    String[] superpowers = {
+        "Tracing a bug from the browser → BFF → services → Kafka → DB → k8s",
+        "Ramping onto huge unfamiliar codebases before touching a line",
+        "Reviewing AI-generated code like it's going to production — because it is"
     };
 
-    String[] askMeAbout = {
-        "Java · Spring Boot · Quarkus · Microservices",
-        "Core Banking · Trade Finance · SBP Compliance",
-        "Google Gemini · Groq · Ollama · RAG · Prompt Engineering",
-        "React · TypeScript · Vue.js · XState · Electron"
-    };
-
-    String[] philosophy = {
-        "Ship products, not prototypes.",
-        "Real users > perfect code.",
-        "If it works on weekend, productionize it on Monday."
-    };
-
-    String email   = "rahool.goswami16@gmail.com";
     String funFact = "Most FYPs die on submission day. Mine became a product. 🛡️";
 }
 ```
 
-<div align="center">
-
-> 💬 *"I build systems that process thousands of real banking transactions daily — and ship AI products on weekends."*
-
-</div>
-
 ---
 
-## 🔥 What I'm Building Right Now
-
-<div align="center">
-
-| 🚧 In Active Development | 🎯 What's Next |
-|:---|:---|
-| **Zynapse AI Engineering Academy** — AI learning platform with Electron desktop app, local Ollama (Gemma 2B) for offline AI, and multi-provider routing | RAG-powered code review agent |
-| **InterView Alpha** — Polishing RAG knowledge base & adding voice-mode AI interviewer | LLM-evaluated mock interview scoring |
-| **FakeShield v2** — Adding browser extension for real-time fact-checking | Realtime stream detection (live video) |
-
-</div>
-
----
-
-## 🏦 Professional Experience
+## 🏢 Experience
 
 <table>
 <tr>
-<td width="28%" align="center">
-<br/>
+<td width="26%" align="center">
 
-![TereSol](https://img.shields.io/badge/TereSol-Pvt.%20Ltd.-00d4ff?style=for-the-badge)
+![Confiz](https://img.shields.io/badge/Systems_Limited-Confiz-00d4ff?style=for-the-badge)
 
-<br/>
-
-![Duration](https://img.shields.io/badge/July%202022-Present-7c3aed?style=flat-square)
-
-![Duration2](https://img.shields.io/badge/4%20Years-Production-00c853?style=flat-square)
-
-![Location](https://img.shields.io/badge/Karachi-Pakistan-e2e8f0?style=flat-square)
-
-![Project](https://img.shields.io/badge/Project-AL--Habib%20CBS-ff6b35?style=flat-square)
+![Now](https://img.shields.io/badge/Aug_2026-Present-00c853?style=flat-square)
+![Domain](https://img.shields.io/badge/US_Healthcare-AI--Enabled-7c3aed?style=flat-square)
 
 </td>
-<td width="72%">
+<td width="74%">
 
-### 🏗️ Senior Software Design Engineer
+### 🏥 Senior Consultant — Application Development (Java Full-Stack)
+**Project: Chatterbox** — an AI-enabled application for a US healthcare client
 
-Contributing to **AL-Habib Bank's Core Banking System** — one of Pakistan's largest production banking platforms processing **thousands of daily transactions**.
+- ⚡ Full-stack features across **Java/Spring Boot + Python** services and **React, Next.js & Vite** front-ends
+- 🔎 Build & debug UI for the **AI Search** and **Tech AI** modules — loading, error and state edge cases for AI responses
+- 🧭 Onboarded onto an existing **BFF** codebase — mapped request flows, API contracts and downstream dependencies first
+- 🚢 Ship through **Azure, Docker & CI/CD** in Agile sprints with a distributed onshore/offshore team
 
-- 🔄 Engineered **Trade Finance modules** (Import & Export) for high-volume cross-border transactions with full **SBP regulatory compliance**
-- 🏦 Built **Teller Module** — outward bill clearing & credit card fund transfer workflows used by bank tellers daily
-- 🤖 Automated **transaction reconciliation pipelines**, eliminating manual banking processes
-- ⚙️ Architected RESTful APIs in distributed **microservices architecture** — Java · Quarkus · Spring Boot
-- 🖥️ Built **Vue.js + XState** frontend modules for complex banking state-machine UIs
+`Java` `Spring Boot` `Python` `React` `Next.js` `Vite` `BFF` `Azure` `Docker` `CI/CD`
 
-`Java` `Spring Boot` `Quarkus` `Node.js` `Vue.js` `XState` `MySQL` `Docker` `AWS` `Microservices`
+</td>
+</tr>
+<tr>
+<td width="26%" align="center">
+
+![TereSol](https://img.shields.io/badge/TereSol-Pvt._Ltd.-ff6b35?style=for-the-badge)
+
+![Dates](https://img.shields.io/badge/Jul_2022-Jul_2026-7c3aed?style=flat-square)
+![Client](https://img.shields.io/badge/Client-AL--Habib_Bank-00d4ff?style=flat-square)
+
+</td>
+<td width="74%">
+
+### 🏦 Senior Software Design Engineer — Core Banking Platform
+
+- 👥 **Led a 4-member team** — mentoring, code reviews, architecture, estimation & sprint planning
+- 🧩 REST APIs across **10+ distributed microservices** with **Java, Spring Boot & Quarkus**, **Kafka** events, **Kubernetes** orchestration
+- 🌐 Architected **4+ Trade Finance** import/export modules — thousands of daily cross-border transactions under **SBP regulations**
+- 💳 Delivered **3 Teller Module** capabilities (outward bill clearing, credit-card fund transfers) used in branches nationwide
+- ⏱️ Automated transaction reconciliation — daily financial close from **hours → minutes**
+- 🖥️ Owned **Vue.js + XState** front-ends for complex banking state machines
+
+`Java` `Spring Boot` `Quarkus` `JPA/Hibernate` `Kafka` `Kubernetes` `Docker` `Vue.js` `XState` `MySQL` `AWS` `JUnit` `Mockito`
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary>📋 Earlier Experience (click to expand)</summary>
+<summary>📜 <b>Earlier roles</b></summary>
 <br/>
 
-**C# Developer Trainee** — Media Monitors *(Jan 2021 – May 2021)*
-`C#` `ASP.NET MVC` `SQL Server` `HTML` `CSS` `JavaScript`
-
-**Web Design Intern** — Abtach Pvt. Ltd. *(Jun 2021 – Aug 2021)*
-`HTML5` `CSS3` `JavaScript` `Responsive Design` `UI/UX`
+- **Web Design Intern** — Abtach Pvt. Ltd. *(Jun – Aug 2021)* · 10+ responsive interfaces from Figma
+- **C# Developer Trainee** — Media Monitors *(Jan – May 2021)* · 5+ ASP.NET MVC modules, ~30% faster report generation
 
 </details>
 
 ---
 
+## 🧬 How I Build Systems
+
+```mermaid
+flowchart LR
+    U(["👤 User"]) --> FE["⚛️ React 19 · Next.js<br/>Vue + XState"]
+    FE --> BFF["🧭 BFF / API layer"]
+    subgraph K8S["☸️ Kubernetes · Docker · Azure / AWS"]
+        BFF --> SB["☕ Spring Boot"]
+        BFF --> QK["⚡ Quarkus"]
+        BFF --> PY["🐍 Python"]
+        SB <--> KF{{"📨 Apache Kafka"}}
+        QK <--> KF
+        SB --> DB[("🗄️ PostgreSQL · MySQL")]
+        QK --> DB
+    end
+    PY --> AI[["🤖 Multi-LLM Router"]]
+    AI --> GM["Gemini"]
+    AI --> GQ["Groq"]
+    AI --> OA["OpenAI"]
+    AI --> OL["Ollama · offline"]
+```
+
+---
+
 ## 🚀 Featured Projects
 
-### ⭐ FakeShield — AI-Powered Misinformation & Deepfake Detector
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🛡️ FakeShield
+**Multimodal misinformation & deepfake detector**
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%94%B4%20LIVE%20DEMO-FakeShield-00c853?style=for-the-badge)](https://fake-shield-all-in-one-fake-news-de.vercel.app/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahul-AlPHA1/FakeShield-All-in-One-Fake-News-Deepfake-Detector)
-&nbsp;
-[![AI Product](https://img.shields.io/badge/AI%20Product-Gemini%20Multimodal-4285F4?style=for-the-badge&logo=google&logoColor=white)]()
+Text · URL · image · audio · video analysis with risk scores and AI reasoning. Grew from my FYP (LSTM/CNN on **40,000+ articles, 92%+ accuracy**) into a full product with voice-clone & image-deepfake detection.
 
-</div>
+`React 19` `TypeScript` `Node/Express` `Python` `Gemini` `Groq` `Ollama`
 
-> 🛡️ Full-stack web app detecting **misinformation, deepfakes & AI-generated content** across Text · Images · Video · Audio — powered by Google Gemini Multimodal API.
+[![Live](https://img.shields.io/badge/Live_Demo-00c853?style=flat-square&logo=vercel&logoColor=white)](https://fake-shield-all-in-one-fake-news-de.vercel.app/)
+[![Code](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Rahul-AlPHA1/FakeShield-All-in-One-Fake-News-Deepfake-Detector)
 
-| Feature | Description |
-|:---|:---|
-| 🔍 **Multimodal Analysis** | Text, Image, Video & Audio detection via Gemini API with risk score + AI reasoning |
-| 🌐 **Real-Time URL Scanner** | Scrapes & analyzes web articles for clickbait and misinformation patterns |
-| 📊 **Global Trending Tracker** | Live dashboard tracking viral fake news trends worldwide |
-| 🔧 **Configurable LLM** | Switch between Gemini · Groq · Ollama using your own API keys |
-| 🔒 **Privacy-First** | Auto data expiration · zero retention policy |
-| 🌙 **Dynamic UI** | Light/dark mode · Framer Motion animations · real-time loading states |
+</td>
+<td width="50%" valign="top">
 
-**Stack:**
-&nbsp;![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+### 🧠 Zynapse AI Engineering Academy
+**AI learning OS — web + Windows desktop app**
 
-> 💡 **Origin Story:** Started as my Final Year Project (2022) — a text-only LSTM+CNN fake news detector trained on **40,000+ articles** with **92%+ accuracy**. Rebuilt from scratch in 2024 into a full **multimodal AI platform**. *"Most FYPs die on submission day. Mine became a product."*
+Roadmaps, AI-generated lessons, interview Q&A, quizzes, code review, study planner and PDF export. Routes across **Groq, Gemini & OpenAI** with an **offline Ollama / Gemma 2B** fallback — no API key needed.
 
----
+`React 19` `TypeScript` `Express` `Electron` `NSIS` `Ollama`
 
-### 🧠 Zynapse AI Engineering Academy — Production AI Learning Operating System
+[![Live](https://img.shields.io/badge/Live_Demo-00c853?style=flat-square&logo=vercel&logoColor=white)](https://zynapse-ai-engineering-academy.vercel.app/)
+[![Code](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Rahul-AlPHA1/Zynapse-AI-Engineering-Academy)
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%94%B4%20LIVE%20DEMO-Zynapse%20Academy-00c853?style=for-the-badge)](https://zynapse-ai-engineering-academy.vercel.app/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahul-AlPHA1/Zynapse-AI-Engineering-Academy)
-&nbsp;
-[![Desktop App](https://img.shields.io/badge/Desktop-Electron%20Windows-47848F?style=for-the-badge&logo=electron&logoColor=white)]()
-&nbsp;
-[![Offline AI](https://img.shields.io/badge/Offline%20AI-Local%20Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)]()
+### 💰 LendLedger
+**Full-stack AI financial ledger**
 
-</div>
+Spring Boot REST API on PostgreSQL/MySQL with a typed React client and Recharts dashboards. Gemini writes payment reminders, monthly summaries and risk assessments; one-click PDF statements.
 
-> 🎓 An end-to-end **AI engineering learning platform** — structured roadmaps, deep AI-generated lessons, interview prep, coding tools, and a **fully offline desktop mode** with local Ollama. Built for engineers who want one workspace, not ten browser tabs.
+`Java` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `React 19` `Gemini`
 
-#### ⚡ Core Features
+[![Live](https://img.shields.io/badge/Live_Demo-00c853?style=flat-square&logo=vercel&logoColor=white)](https://lend-ledger-one.vercel.app/)
+[![Code](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Rahul-AlPHA1/LendLedger)
 
-| Module | What it does |
-|:---|:---|
-| 📚 **Syllabus & Roadmaps** | Structured learning paths covering AI engineering from fundamentals → production |
-| 🤖 **AI Lesson Generation** | Generates deep, syllabus-aware lessons on-demand using your chosen LLM provider |
-| 💼 **Interview Q&A Workspace** | Role-specific question banks with AI explanations and follow-up depth |
-| 🧪 **Quizzes + Code Review** | Auto-graded quizzes; AI-driven code review for snippets you paste in |
-| ⚙️ **Compiler Tools** | Inline code execution & playground for hands-on practice |
-| 📅 **Study Planner + Analytics** | Track sessions, streaks, weak topics, and time-on-task workflows |
-| 📄 **PDF-Ready Study Export** | One-click polished PDFs of any generated lesson — print or share |
+</td>
+<td width="50%" valign="top">
 
-#### 🔀 Multi-Provider AI Routing — The Killer Feature
+### 🎯 InterView Alpha
+**AI technical interview platform**
 
-> **One UI. Any AI. Even offline.** Zynapse routes lesson generation, Q&A, and code review across:
+Role-specific mock interviews, local RAG knowledge base, resume-to-JD matching from PDFs, and an AI code pad with live Big-O analysis. Switches between Groq, OpenAI and Gemini.
 
-| Provider | Mode | Cost | Notes |
-|:---|:---|:---|:---|
-| 🟢 **Ollama (Gemma 2B)** | 🖥️ Local · Offline | **Free** | Locked to Gemma 2B — runs on low-end CPU systems, **zero API keys needed** |
-| 🟣 **Groq API** | ☁️ Cloud | Free tier | Blazing fast inference for snappy lesson generation |
-| 🔵 **Google Gemini API** | ☁️ Cloud | Free tier | Deep multimodal reasoning |
-| 🟠 **OpenAI-Compatible** | ☁️ Custom endpoint | Varies | Plug in any OpenAI-spec provider (LM Studio, vLLM, OpenRouter, etc.) |
+`React` `TypeScript` `Vite` `RAG` `PDF.js` `Multi-LLM`
 
-#### 🖥️ Built as Both — Web App + Native Desktop
+[![Live](https://img.shields.io/badge/Live_Demo-00c853?style=flat-square&logo=vercel&logoColor=white)](https://interview-alpha-7b9szo785-rahul-alpha1s-projects.vercel.app/)
+[![Code](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Rahul-AlPHA1/interview-alpha-pro)
 
-- 🌐 **Web App** — Deployed on Vercel with serverless backend and provider health checks
-- 🪟 **Windows Desktop App** — Packaged via **Electron + NSIS installer** with app branding and first-run setup flow. Bundle Ollama once, use AI forever — no internet required after install.
-
-#### 📖 Production-Grade Documentation
-
-Built with a **detailed README featuring real app screenshots, multi-platform deployment guides, and a 60-second setup flow** — users can run the web app, install the desktop build, or wire up local AI in minutes.
-
-**Stack:**
-&nbsp;![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![NSIS](https://img.shields.io/badge/NSIS-Installer-009688?style=flat-square)
-
-> 💡 **Why I built it:** Every AI engineer's workflow is fragmented — a course platform here, a coding playground there, a separate PDF for notes, three different chat UIs for different LLMs, and nothing works offline. Zynapse collapses all of it into one tool that runs even on a $200 laptop with no internet.
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 InterView Alpha — AI-Powered Technical Interview Platform
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%94%B4%20LIVE%20DEMO-InterView%20Alpha-00c853?style=for-the-badge)](https://interview-alpha-7b9szo785-rahul-alpha1s-projects.vercel.app/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahul-AlPHA1/interview-alpha-pro)
-&nbsp;
-[![RAG](https://img.shields.io/badge/RAG-Powered-7c3aed?style=for-the-badge)]()
-[![Multi-LLM](https://img.shields.io/badge/Multi--LLM-Support-00d4ff?style=for-the-badge)]()
+**Languages & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,nodejs,express,flask,cs&theme=dark" alt="Backend"/>
+<img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" height="48" alt="Quarkus"/>
 
-</div>
+**Frontend & Desktop**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,electron,html,css&theme=dark" alt="Frontend"/>
 
-> 🎯 Comprehensive AI-driven interview prep platform for **role-specific mock interviews, algorithmic coding practice & resume-to-JD matching** — powered by Local RAG + Multi-LLM.
+**Data, Messaging & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,docker,kubernetes,azure,aws,githubactions,maven,git,vercel&theme=dark" alt="Data and cloud"/>
 
-| Feature | Description |
-|:---|:---|
-| 🧠 **Local RAG Knowledge Base** | Indexes technical concepts with real-time context-aware Q&A |
-| 📄 **Resume-to-JD Matching** | PDF parsing → customized talking points + technical cheat sheets |
-| 💻 **AI Code Pad** | Interactive coding environment with real-time Big-O complexity analysis |
-| 🔀 **Multi-LLM Support** | Switch between Groq · OpenAI · Gemini seamlessly |
-| 🎯 **Role-Specific Prep** | Tailored mock interviews per job role and tech stack |
-
-**Stack:**
-&nbsp;![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![PDF.js](https://img.shields.io/badge/PDF.js-FF4500?style=flat-square)
-
----
-
-### 💰 LendLedger — AI-Powered Full-Stack Financial Ledger
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/%F0%9F%94%B4%20LIVE%20DEMO-LendLedger-00c853?style=for-the-badge)](https://lend-ledger-one.vercel.app/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahul-AlPHA1/LendLedger)
-&nbsp;
-[![Full Stack](https://img.shields.io/badge/Full%20Stack-Java%20%2B%20React-ED8B00?style=for-the-badge)]()
-
-</div>
-
-> 📊 Full-stack financial ledger to **track informal loans & personal lending** — Java Spring Boot backend + React/TypeScript frontend with Google Gemini AI-powered insights.
-
-| Feature | Description |
-|:---|:---|
-| 🏗️ **Full-Stack Architecture** | Java Spring Boot REST API backend + React TypeScript frontend |
-| 🤖 **Gemini AI Integration** | Automated monthly summaries · debtor risk assessments · WhatsApp reminder drafts |
-| 🎨 **Premium Glassmorphism UI** | Tailwind CSS v4 + Framer Motion staggered animations |
-| 📑 **Automated PDF Statements** | One-click PDF generation via jsPDF |
-| 🔍 **Smart Filtering** | Real-time balance recalculation + advanced search/filter |
-
-**Stack:**
-&nbsp;![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind v4](https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![jsPDF](https://img.shields.io/badge/jsPDF-FF4500?style=flat-square)
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🎨 Frontend & Desktop
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### 🗄️ Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🤖 AI & ML
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+**AI / LLM**<br/>
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7c3aed?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-7c3aed?style=for-the-badge)
 
-### 🧑‍💻 AI Dev Tools — Daily Driver
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)
+**Testing & Daily AI Drivers**<br/>
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cline](https://img.shields.io/badge/Cline-000000?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-7c3aed?style=for-the-badge)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-Assistant-00d4ff?style=for-the-badge)
 
 </div>
 
@@ -387,23 +257,22 @@ Built with a **detailed README featuring real app screenshots, multi-platform de
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul-alpha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050d1a&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0" alt="GitHub Stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-alpha1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050d1a&title_color=00d4ff&text_color=e2e8f0" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul-AlPHA1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050d1a&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-AlPHA1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050d1a&title_color=00d4ff&text_color=e2e8f0" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Rahul-AlPHA1&theme=tokyonight&hide_border=true&background=050d1a&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=e2e8f0&dates=94a3c4&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-AlPHA1&theme=tokyo-night&bg_color=050d1a&color=00d4ff&line=7c3aed&point=e2e8f0&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul-AlPHA1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rahul-alpha1&theme=tokyonight&hide_border=true&background=050d1a&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=e2e8f0&dates=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- TROPHY SHOWCASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=rahul-alpha1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultiLanguage" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-alpha1&theme=tokyo-night&bg_color=050d1a&color=00d4ff&line=7c3aed&point=e2e8f0&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul-AlPHA1/rahul-alpha1/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul-AlPHA1/rahul-alpha1/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Rahul-AlPHA1/rahul-alpha1/output/github-snake-dark.svg" alt="Snake eating my contributions"/>
+</picture>
 
 </div>
 
@@ -411,112 +280,60 @@ Built with a **detailed README featuring real app screenshots, multi-platform de
 
 ## 💭 What Drives Me
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
 
 ### 🚢 Ship It
-Real users beat perfect code. Every weekend = one feature live.
+Real users beat perfect code. Every weekend = one more feature live.
 
 </td>
 <td align="center" width="33%">
 
-### 🏗️ Build for Scale
-Banking taught me: code touches money. Code touches lives. No shortcuts.
+### 🏦 Code Touches Money
+Banking taught me: no shortcuts on correctness, security or traceability.
 
 </td>
 <td align="center" width="33%">
 
 ### 🌍 AI for Everyone
-Best AI tools should work on a ₨30,000 laptop with no internet. Always.
+The best AI tools should run on a ₨30,000 laptop with no internet.
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & 🎓 Education
 
 <div align="center">
 
-| 🏅 Certificate | 🏢 Platform | 📅 Date | 🔧 Skills |
-|:---|:---|:---:|:---|
-| **Java & DSA — Alpha Batch** | ![Apna College](https://img.shields.io/badge/Apna%20College-FF6B35?style=flat-square) | Nov 2024 – Feb 2025 | Java · OOP · Collections · Multithreading · Trees · Graphs · DP |
-| **Problem Solving (Intermediate)** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | Jan 2024 | Algorithms · Data Structures |
-| **SQL (Advanced)** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | Apr 2024 | Complex Queries · Optimization |
+| 🏅 Certification | 🏢 Issuer | 📅 |
+|:---|:---|:---:|
+| **Senior Software Design Engineer** — system design & distributed architecture | ![micro1](https://img.shields.io/badge/micro1-111827?style=flat-square) | Apr 2026 |
+| **Java & Data Structures and Algorithms** | ![Apna College](https://img.shields.io/badge/Apna_College-FF6B35?style=flat-square) | 2024 – 25 |
+| **SQL (Advanced)** · **Problem Solving (Intermediate)** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | 2024 |
 
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-![SMIU](https://img.shields.io/badge/🏛️%20SMIU%20Karachi-B.Sc.%20Computer%20Science%20%7C%202018--2022-00d4ff?style=for-the-badge)
-
-**Sindh Madressetul Islam University, Karachi**
-
-`DSA` `OOP` `DBMS` `Operating Systems` `Computer Networks` `Software Engineering` `ML & AI` `Web Technologies`
+**🏛️ B.Sc. Computer Science — Sindh Madressatul Islam University (SMIU), Karachi · 2018 – 2022**<br/>
+<sub>FYP: Fake News Detector (LSTM/CNN · 40K+ articles · 92%+ accuracy) → evolved into <b>FakeShield</b></sub>
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's Build Something
 
 <div align="center">
 
-| | Contact |
-|:---:|:---|
-| 🌐 | [rahul-alpha1.github.io/RahoolPortfolio.com](https://rahul-alpha1.github.io/RahoolPortfolio.com/) |
-| 💼 | [linkedin.com/in/rahool-goswami-4b055a126](https://www.linkedin.com/in/rahool-goswami-4b055a126) |
-| 📧 | [rahool.goswami16@gmail.com](mailto:rahool.goswami16@gmail.com) |
-| 📱 | +92 308 9567074 |
-| 📍 | Karachi, Pakistan 🇵🇰 — Open to Remote 🌍 |
-
-<br/>
+**Open to remote roles with US / EU overlap** — full-stack, backend, fintech or AI product work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahool-goswami-4b055a126)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahool.goswami16@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-alpha1)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://rahul-alpha1.github.io/RahoolPortfolio.com/)
+[![Gmail](https://img.shields.io/badge/rahool.goswami16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahool.goswami16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=githubpages&logoColor=black)](https://rahul-alpha1.github.io/RahoolPortfolio.com/)
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<!-- FOOTER SVG — inline, always loads -->
-<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#050d1a"/>
-      <stop offset="50%" style="stop-color:#0d1b35"/>
-      <stop offset="100%" style="stop-color:#050d1a"/>
-    </linearGradient>
-    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#050d1a"/>
-      <stop offset="30%" style="stop-color:#00d4ff"/>
-      <stop offset="70%" style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#050d1a"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="80" rx="12" fill="url(#fbg)"/>
-  <rect x="0" y="0" width="860" height="2" fill="url(#lg)"/>
-  <text x="430" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600"
-        text-anchor="middle" fill="#00d4ff">Designed &amp; Built by Rahool Gir · Karachi, Pakistan · 2026</text>
-  <text x="430" y="60" font-family="'Segoe UI',Arial,sans-serif" font-size="12"
-        text-anchor="middle" fill="#7c3aed">"Most FYPs die on submission day. Mine became a product." 🛡️</text>
-</svg>
+<img src="./assets/footer.svg" width="100%" alt="Designed and built by Rahool Gir"/>
 
 </div>

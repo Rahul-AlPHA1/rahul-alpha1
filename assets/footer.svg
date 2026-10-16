@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <title>Designed &amp; built by Rahool Gir</title>
+  <style>
+    .a { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #00d4ff; }
+    .b { font: italic 13px 'Segoe UI', Arial, sans-serif; fill: #a78bfa; }
+  </style>
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#050d1a"/><stop offset=".5" stop-color="#0d1b35"/><stop offset="1" stop-color="#050d1a"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="900" height="120" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="900" height="120" fill="url(#fbg)"/>
+    <path fill="url(#wave)" opacity=".18">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="M0 90 C150 70 300 110 450 90 C600 70 750 110 900 90 V120 H0Z;
+                M0 90 C150 110 300 70 450 90 C600 110 750 70 900 90 V120 H0Z;
+                M0 90 C150 70 300 110 450 90 C600 70 750 110 900 90 V120 H0Z"/>
+    </path>
+    <path fill="url(#wave)" opacity=".3">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite"
+        values="M0 100 C200 115 350 88 450 100 C580 115 720 88 900 100 V120 H0Z;
+                M0 100 C200 88 350 115 450 100 C580 88 720 115 900 100 V120 H0Z;
+                M0 100 C200 115 350 88 450 100 C580 115 720 88 900 100 V120 H0Z"/>
+    </path>
+  </g>
+  <text class="a" x="450" y="40" text-anchor="middle">Designed &amp; built by Rahool Gir · Karachi, Pakistan · Open to remote 🌍</text>
+  <text class="b" x="450" y="66" text-anchor="middle">"Most FYPs die on submission day. Mine became a product." 🛡️</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 400" width="480" height="400">
+  <title>rahool@karachi — terminal</title>
+  <style>
+    text { font: 13px 'Consolas', 'Cascadia Code', 'Courier New', monospace; }
+    .ps  { fill: #00d4ff; }
+    .cmd { fill: #e2e8f0; }
+    .out { fill: #94a3c4; }
+    .hi  { fill: #c4b5fd; }
+    .ok  { fill: #4ade80; }
+    .l   { opacity: 0; animation: in .35s ease-out forwards; }
+    .cur { animation: blink 1s step-end infinite; }
+    @keyframes in    { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="480" height="400" rx="14" fill="#050d1a"/>
+  <rect x=".75" y=".75" width="478.5" height="398.5" rx="13.5" fill="none" stroke="#1e2d52" stroke-width="1.5"/>
+  <path d="M0 14 A14 14 0 0 1 14 0 H466 A14 14 0 0 1 480 14 V36 H0 Z" fill="#0d1b35"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="240" y="22" text-anchor="middle" class="out" style="font-size:12px">rahool@karachi: ~</text>
+
+  <g>
+    <text class="l" x="18" y="66"  style="animation-delay:.3s"><tspan class="ps">rahool@karachi:~$ </tspan><tspan class="cmd">whoami</tspan></text>
+    <text class="l" x="18" y="88"  style="animation-delay:.8s"><tspan class="hi">Senior Full-Stack Software Engineer · 4+ yrs</tspan></text>
+
+    <text class="l" x="18" y="118" style="animation-delay:1.4s"><tspan class="ps">rahool@karachi:~$ </tspan><tspan class="cmd">cat now.txt</tspan></text>
+    <text class="l" x="18" y="140" style="animation-delay:1.9s"><tspan class="out">› Senior Consultant @ Systems Limited — Confiz</tspan></text>
+    <text class="l" x="18" y="162" style="animation-delay:2.2s"><tspan class="out">› Chatterbox · AI-enabled US healthcare app</tspan></text>
+
+    <text class="l" x="18" y="192" style="animation-delay:2.8s"><tspan class="ps">rahool@karachi:~$ </tspan><tspan class="cmd">cat banking.log</tspan></text>
+    <text class="l" x="18" y="214" style="animation-delay:3.3s"><tspan class="out">› Led a 4-engineer team · AL-Habib Core Banking</tspan></text>
+    <text class="l" x="18" y="236" style="animation-delay:3.6s"><tspan class="out">› 10+ microservices · Kafka · Kubernetes</tspan></text>
+    <text class="l" x="18" y="258" style="animation-delay:3.9s"><tspan class="out">› Reconciliation: hours → </tspan><tspan class="ok">minutes ⚡</tspan></text>
+
+    <text class="l" x="18" y="288" style="animation-delay:4.5s"><tspan class="ps">rahool@karachi:~$ </tspan><tspan class="cmd">ls ~/shipped</tspan></text>
+    <text class="l" x="18" y="310" style="animation-delay:5s"><tspan class="ok">FakeShield · Zynapse · LendLedger · InterView-Alpha</tspan></text>
+
+    <text class="l" x="18" y="340" style="animation-delay:5.6s"><tspan class="ps">rahool@karachi:~$ </tspan><tspan class="cmd">echo $MOTTO</tspan></text>
+    <text class="l" x="18" y="362" style="animation-delay:6.1s"><tspan class="hi">Ship products, not prototypes. 🚀</tspan></text>
+    <rect class="l cur" x="18" y="374" width="9" height="15" fill="#00d4ff" style="animation: in .3s 6.6s forwards, blink 1s step-end 6.9s infinite"/>
+  </g>
+</svg>

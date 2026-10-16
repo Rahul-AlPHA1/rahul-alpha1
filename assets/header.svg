@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <title>Rahool Gir — Senior Full-Stack Software Engineer</title>
+  <style>
+    .name { font: 800 64px 'Segoe UI', Arial, sans-serif; letter-spacing: -1px; }
+    .role { font: 600 20px 'Segoe UI', Arial, sans-serif; fill: #e2e8f0; }
+    .stack{ font: 500 14px 'Consolas', 'Courier New', monospace; fill: #94a3c4; }
+    .pill { font: 700 13px 'Segoe UI', Arial, sans-serif; fill: #e2e8f0; }
+    .dot  { animation: pulse 1.6s ease-in-out infinite; transform-origin: 300px 186px; }
+    .p    { animation: twinkle 3s ease-in-out infinite; }
+    .scan { animation: scan 5s linear infinite; }
+    .rise { animation: rise .9s cubic-bezier(.2,.8,.2,1) both; }
+    .r2   { animation-delay: .25s; } .r3 { animation-delay: .5s; } .r4 { animation-delay: .75s; }
+    @keyframes pulse   { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .4; transform: scale(1.5); } }
+    @keyframes twinkle { 0%,100% { opacity: .15; } 50% { opacity: .9; } }
+    @keyframes scan    { from { transform: translateX(-200px); } to { transform: translateX(1100px); } }
+    @keyframes rise    { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050d1a"/>
+      <stop offset="1" stop-color="#0d1b35"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00d4ff"/>
+      <stop offset=".5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#00d4ff"/>
+      <animate attributeName="x1" values="0;-900;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="900;0;900" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00d4ff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#1e2d52" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="900" height="220" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="220" fill="url(#bg)"/>
+    <rect width="900" height="220" fill="url(#grid)" opacity=".45"/>
+    <rect class="scan" x="0" y="0" width="160" height="220" fill="url(#beam)"/>
+    <circle cx="80" cy="60" r="90" fill="#00d4ff" opacity=".06"/>
+    <circle cx="830" cy="170" r="110" fill="#7c3aed" opacity=".08"/>
+    <g fill="#e2e8f0">
+      <circle class="p" cx="60" cy="40" r="1.6"/>
+      <circle class="p" cx="140" cy="180" r="1.3" style="animation-delay:.6s"/>
+      <circle class="p" cx="790" cy="40" r="1.8" style="animation-delay:1.2s"/>
+      <circle class="p" cx="850" cy="110" r="1.2" style="animation-delay:.3s"/>
+      <circle class="p" cx="720" cy="190" r="1.5" style="animation-delay:1.8s"/>
+      <circle class="p" cx="230" cy="30" r="1.2" style="animation-delay:2.2s"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="898" height="218" rx="17" fill="none" stroke="url(#tg)" stroke-width="2" opacity=".7"/>
+
+  <text class="stack rise" x="450" y="42" text-anchor="middle">&lt;/&gt; hello world, i'm</text>
+  <text class="name rise r2" x="450" y="108" text-anchor="middle" fill="url(#tg)">Rahool Gir</text>
+  <text class="role rise r3" x="450" y="142" text-anchor="middle">Senior Full-Stack Software Engineer · AI Product Builder</text>
+
+  <g class="rise r4">
+    <rect x="282" y="170" width="336" height="32" rx="16" fill="#0d1b35" stroke="#00c853" stroke-opacity=".6"/>
+    <circle class="dot" cx="300" cy="186" r="5" fill="#00c853"/>
+    <text class="pill" x="316" y="191">Senior Consultant @ Systems Limited — Confiz</text>
+  </g>
+</svg>
